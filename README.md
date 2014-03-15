@@ -1,4 +1,4 @@
-DASH Streamer
+PictoCast
 ================
 
-Android video streaming application that implements Dynamic Adaptive Streaming over HTTP.
+A pictionary inspired drawing game utilizing the Google Cast technology.
